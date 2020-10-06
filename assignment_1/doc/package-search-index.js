@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"xz222az_assign1.collection"},{"l":"xz222az_assign1.ferry"},{"l":"xz222az_assign1.LiFo"},{"l":"xz222az_assign1.Queue"},{"l":"xz222az_assign1.shape"}]
